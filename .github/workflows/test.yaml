@@ -36,6 +36,7 @@ jobs:
         features:
           - color
           - hello
+          - qgis
     steps:
       - uses: actions/checkout@v3
 
